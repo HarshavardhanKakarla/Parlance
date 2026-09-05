@@ -2,9 +2,6 @@
 
 ### Fraud scoring you can talk to
 
-_(Codebase/repo name: `risk-sentinel` - kept as-is internally; "Parlance" is
-the product/brand name used in the pitch and UI.)_
-
 Real-time transaction trust-scoring with a **conversational policy layer** -
 merchants don't just see a Green/Yellow/Red decision, they can steer the
 engine live in plain English and watch it change behavior on the next
